@@ -1,0 +1,11 @@
+D:\Projects\Ultrasonic\SONAR\SONAR\bin\Debug\SONAR.exe
+D:\Projects\Ultrasonic\SONAR\SONAR\bin\Debug\SONAR.pdb
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\SONAR.Form1.resources
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\SONAR.Properties.Resources.resources
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\SONAR.exe
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Debug\SONAR.pdb
+D:\C# Source codes\HC-SR04 Distance meter\SONAR\SONAR\obj\x86\Debug\SONAR.exe
+D:\C# Source codes\HC-SR04 Distance meter\SONAR\SONAR\obj\x86\Debug\SONAR.pdb
