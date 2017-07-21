@@ -1,0 +1,9 @@
+D:\Projects\Ultrasonic\SONAR\SONAR\bin\Release\SONAR.exe
+D:\Projects\Ultrasonic\SONAR\SONAR\bin\Release\SONAR.pdb
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\SONAR.Properties.Resources.resources
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\SONAR.exe
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\SONAR.pdb
+D:\Projects\Ultrasonic\SONAR\SONAR\obj\x86\Release\SONAR.Form1.resources
